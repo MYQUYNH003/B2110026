@@ -7,5 +7,5 @@ Ngành Hệ Thống Thông
 SĐT: 0346320632<br/>
 Email: quynhb2110026@student.ctu.edu.vn
 # NGÔN NGỮ LẬP TRÌNH YÊU THÍCH
-C++
+C++<br/>
 PyThon
